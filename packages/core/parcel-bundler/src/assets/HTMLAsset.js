@@ -19,6 +19,7 @@ const ATTRS = {
     'iframe',
     'embed'
   ],
+  'data-blink-src': ['img'],
   href: ['link', 'a', 'use'],
   srcset: ['img', 'source'],
   poster: ['video'],
